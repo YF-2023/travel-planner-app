@@ -1,2 +1,3 @@
-# travel-planner-app
-Repository for Travel Planner App project
+# Travel Planner App
+
+A comprehensive travel planning application that helps users organize their trips, find attractions, and discover local restaurants.
